@@ -20,7 +20,7 @@ deploy:
 # directorio resultante de la compilación:
 # xej: /bodndel  /public ...etc
         local_dir: dist/
-# rama de publicación (sitio) de GitHub:
+# rama de publicación (sitio) de GitHub a:
         target_branch: gh-pages
         commit_message: "Deploy del proyecto travis"
         on:
